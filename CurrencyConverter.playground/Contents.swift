@@ -32,3 +32,9 @@ convert2(amountString: "10")
 currency = .mxn
 convert2(amountString: "10")
 
+/*    var currencyFormatter: NumberFormatter = {
+    let formatter = NumberFormatter()
+    formatter.numberStyle = .currency
+    return formatter
+}
+ */
